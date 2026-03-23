@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "nigerpokemon.falixsrv.me",
+    "ip": "onepieceserverfl.falixsrv.me",
     "port": 22866,
-    "version": "1.21.1"
+    "version": "1.16.5"
   },
   "position": {
     "enabled": true,
